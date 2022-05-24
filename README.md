@@ -1,8 +1,4 @@
-<style>
-  img{
-   display:inline;
-  } 
- </style>
+<div-align: center></div>
 
 <h3> Hi there 👋 </h3>
 
