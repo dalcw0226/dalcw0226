@@ -1,4 +1,4 @@
-<div align: center></div>
+<div align = "center"></div>
 
 <h3> Hi there 👋 </h3>
 
