@@ -1,4 +1,8 @@
-
+<style>
+  img{
+   display:inline;
+  } 
+ </style>
 
 <h3> Hi there 👋 </h3>
 
