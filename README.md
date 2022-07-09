@@ -1,23 +1,27 @@
 
+<h2> Hi there 👋 </h2>
 
-<h3> Hi there 👋 </h3>
+🔭 Attending the Department of Artificial Intelligence at Chonnam National Univ.
 
-🔭 I’m currently working on Chonnam National University, [🗝 SRC LAB]
+🗝 An Undergraduate Student at SRC Lab
 
-📖 I major in artificial intelligence
+📖 Major : Artificial Intelligence
  
-🌱 I’m currently learning ...
-  1. Programming Language JAVA
-  2. WEB Programming
-  3. Machine Learning and Deep Learning
-  4. Security
-  
-👯 I’m looking to collaborate on Security and DeepLearning<br>
+🌱 I’m currently learning
+1. Security
+1. Machine Learning and Deep Learning
 
-📫 How to reach me<br>
+👯 Field of Study "Security of Artifitial Intelligence"
+
+📫 How to reach me  
     email : 211483@jnu.ac.kr || anstjdtn7@naver.com<br>
     Instagram DM : @DALCW_0226<br>
 
+🗺 Study Plan (Summer Vacation)   
+1. Programming Language C++
+1. MLDL Basic
+1. Pytorch
+1. Computer Architecture
 
 
 <div align = "center">
