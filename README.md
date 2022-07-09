@@ -5,6 +5,8 @@
 
 🗝 An Undergraduate Student at SRC Lab
 
+🔥 I belong to the club STOLIO
+
 📖 Major : Artificial Intelligence
  
 🌱 I’m currently learning
