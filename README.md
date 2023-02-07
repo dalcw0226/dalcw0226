@@ -10,21 +10,15 @@
 📖 Major : Artificial Intelligence
  
 🌱 I’m currently learning
-1. Security
-1. Machine Learning and Deep Learning
+1. Deep Learning
+2. Security
+3. Adversarial Example
 
-👯 Field of Study "Security of Artifitial Intelligence"
+👯 Field of Study **"Security with AI"**
 
 📫 How to reach me  
-    email : 211483@jnu.ac.kr || anstjdtn7@naver.com<br>
+    email : dalcw@jnu.ac.kr || dev.dalcw@gmail.com<br>
     Instagram DM : @DALCW_0226<br>
-
-🗺 Study Plan (Summer Vacation)   
-1. Programming Language C++
-1. MLDL Basic
-1. Pytorch
-1. Computer Architecture
-
 
 <div align = "center">
 <h3>💻Tech Stack💻</h3>  
